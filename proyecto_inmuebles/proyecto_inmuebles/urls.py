@@ -16,8 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from gestion_inmuebles.views import indice
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include("user.urls",namespace="User")),
+    path('',indice, name="indice"),
 ]

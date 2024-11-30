@@ -1,1 +1,15 @@
 /.venv
+
+# Static files (if you're not tracking them)
+static/
+
+# Media files (if you're not tracking them)
+media/
+
+# Compiled files
+*.js
+*.css
+*.map
+
+#
+proyectos_inmuebles/proyectos_inmuebles/settings.py

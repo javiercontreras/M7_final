@@ -1,5 +1,6 @@
 from django.db import models
 from django.contrib.auth.admin import User
+from django.contrib.auth.models import Group
 from django.dispatch import receiver
 from django.db.models.signals import post_save
 
@@ -25,3 +26,13 @@ def create_user_profile(sender, instance, created, **kwargs):
     if created:
         UserProfile.objects.create(user=instance)
 
+
+@receiver(post_save, sender=UserProfile)
+def add_user_group(sender, instance, created, **kwargs):
+        try:
+            arrendatario_group = Group.objects.get(name='Arrendatario')
+            
+        except Group.DoesNotExist:
+            arrendatario_group = Group.objects.create(name='Arrendatario')
+            propietario_group = Group.objects.create(name='Propietario')
+        instance.user.groups.add(arrendatario_group)
