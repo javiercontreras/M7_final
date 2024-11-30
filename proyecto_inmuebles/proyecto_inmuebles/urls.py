@@ -22,4 +22,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include("user.urls",namespace="User")),
     path('',indice, name="indice"),
+    
+
 ]

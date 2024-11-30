@@ -16,20 +16,16 @@ def update_profile(request):
         if user_form.is_valid() and user_profile_form.is_valid():
             user_form.save()
             user_profile_form.save()
-            user = User.objects.get(username=request.user)
+            user = User.objects.get(id=request.user.id)
             tipo = request.POST.get("tipo_usuario")
-            grupo = Group.objects.get(name='Arrendatario')
-            # if tipo == 'A' and Group.objects.get(name='Arrendatario'):
-            #     user.groups.remove('Propietario')
-            #     user.groups.add('Arrendatario')
-            # else:
-            #     user.groups.remove('Arrendatario')
-            #     user.groups.add('Propietario')
-
-            
-            print(user)
-            print(tipo)
-            print(grupo)
+            grupoArrendatario = Group.objects.get(name='Arrendatario')
+            grupoPropietario = Group.objects.get(name='Propietario')
+            if tipo == 'P' and user.groups.filter(name='Arrendatario').exists():     
+                user.groups.remove(grupoArrendatario )
+                user.groups.add(grupoPropietario)
+            else:
+                user.groups.remove(grupoPropietario)
+                user.groups.add(grupoArrendatario )
             return redirect("indice")
     else:
         # we populate the user form 
