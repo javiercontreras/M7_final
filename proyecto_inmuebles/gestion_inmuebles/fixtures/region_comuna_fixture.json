@@ -1,0 +1,2882 @@
+[
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 19,
+    "fields": {
+        "nombre": "Magallanes"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 20,
+    "fields": {
+        "nombre": "Aysen"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 21,
+    "fields": {
+        "nombre": "Los Lagos"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 22,
+    "fields": {
+        "nombre": "Los Ríos"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 23,
+    "fields": {
+        "nombre": "La Araucania"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 24,
+    "fields": {
+        "nombre": "Biobío"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 25,
+    "fields": {
+        "nombre": "Ñuble"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 26,
+    "fields": {
+        "nombre": "Maule"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 27,
+    "fields": {
+        "nombre": "O`higgins"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 28,
+    "fields": {
+        "nombre": "Metropolitana"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 29,
+    "fields": {
+        "nombre": "Valparaiso"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 30,
+    "fields": {
+        "nombre": "Coquimbo"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 31,
+    "fields": {
+        "nombre": "Atacama"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 32,
+    "fields": {
+        "nombre": "Antofagasta"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 33,
+    "fields": {
+        "nombre": "Tarapacá"
+    }
+},
+{
+    "model": "gestion_inmuebles.region",
+    "pk": 34,
+    "fields": {
+        "nombre": "Arica y Parinacota"
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 347,
+    "fields": {
+        "nombre": "Punta Arenas",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 348,
+    "fields": {
+        "nombre": "Laguna Blanca",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 349,
+    "fields": {
+        "nombre": "Río Verde",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 350,
+    "fields": {
+        "nombre": "San Gregorio",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 351,
+    "fields": {
+        "nombre": "Cabo de Hornos",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 352,
+    "fields": {
+        "nombre": "Antártica",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 353,
+    "fields": {
+        "nombre": "Porvenir",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 354,
+    "fields": {
+        "nombre": "Primavera",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 355,
+    "fields": {
+        "nombre": "Timaukel",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 356,
+    "fields": {
+        "nombre": "Natales",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 357,
+    "fields": {
+        "nombre": "Torres del Paine",
+        "region": 19
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 358,
+    "fields": {
+        "nombre": "Coyhaique",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 359,
+    "fields": {
+        "nombre": "Lago Verde",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 360,
+    "fields": {
+        "nombre": "Aysén",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 361,
+    "fields": {
+        "nombre": "Cisnes",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 362,
+    "fields": {
+        "nombre": "Guaitecas",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 363,
+    "fields": {
+        "nombre": "Cochrane",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 364,
+    "fields": {
+        "nombre": "O'Higgins",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 365,
+    "fields": {
+        "nombre": "Tortel",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 366,
+    "fields": {
+        "nombre": "Chile Chico",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 367,
+    "fields": {
+        "nombre": "Río Ibáñez",
+        "region": 20
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 368,
+    "fields": {
+        "nombre": "Puerto Montt",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 369,
+    "fields": {
+        "nombre": "Calbuco",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 370,
+    "fields": {
+        "nombre": "Cochamó",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 371,
+    "fields": {
+        "nombre": "Fresia",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 372,
+    "fields": {
+        "nombre": "Frutillar",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 373,
+    "fields": {
+        "nombre": "Llanquihue",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 374,
+    "fields": {
+        "nombre": "Los Muermos",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 375,
+    "fields": {
+        "nombre": "Maullín",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 376,
+    "fields": {
+        "nombre": "Puerto Varas",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 377,
+    "fields": {
+        "nombre": "Castro",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 378,
+    "fields": {
+        "nombre": "Ancud",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 379,
+    "fields": {
+        "nombre": "Chonchi",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 380,
+    "fields": {
+        "nombre": "Curaco de Vélez",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 381,
+    "fields": {
+        "nombre": "Dalcahue",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 382,
+    "fields": {
+        "nombre": "Puqueldón",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 383,
+    "fields": {
+        "nombre": "Queilén",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 384,
+    "fields": {
+        "nombre": "Quellón",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 385,
+    "fields": {
+        "nombre": "Quemchi",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 386,
+    "fields": {
+        "nombre": "Quinchao",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 387,
+    "fields": {
+        "nombre": "Osorno",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 388,
+    "fields": {
+        "nombre": "Puerto Octay",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 389,
+    "fields": {
+        "nombre": "Purranque",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 390,
+    "fields": {
+        "nombre": "Puyehue",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 391,
+    "fields": {
+        "nombre": "Río Negro",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 392,
+    "fields": {
+        "nombre": "San Juan de la Costa",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 393,
+    "fields": {
+        "nombre": "San Pablo",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 394,
+    "fields": {
+        "nombre": "Chaitén",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 395,
+    "fields": {
+        "nombre": "Futaleufú",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 396,
+    "fields": {
+        "nombre": "Hualaihué",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 397,
+    "fields": {
+        "nombre": "Palena",
+        "region": 21
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 398,
+    "fields": {
+        "nombre": "Valdivia",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 399,
+    "fields": {
+        "nombre": "Corral",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 400,
+    "fields": {
+        "nombre": "Lanco",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 401,
+    "fields": {
+        "nombre": "Los Lagos",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 402,
+    "fields": {
+        "nombre": "Máfil",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 403,
+    "fields": {
+        "nombre": "Mariquina",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 404,
+    "fields": {
+        "nombre": "Paillaco",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 405,
+    "fields": {
+        "nombre": "Panguipulli",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 406,
+    "fields": {
+        "nombre": "La Unión",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 407,
+    "fields": {
+        "nombre": "Futrono",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 408,
+    "fields": {
+        "nombre": "Lago Ranco",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 409,
+    "fields": {
+        "nombre": "Río Bueno",
+        "region": 22
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 410,
+    "fields": {
+        "nombre": "Temuco",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 411,
+    "fields": {
+        "nombre": "Carahue",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 412,
+    "fields": {
+        "nombre": "Cunco",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 413,
+    "fields": {
+        "nombre": "Curarrehue",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 414,
+    "fields": {
+        "nombre": "Freire",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 415,
+    "fields": {
+        "nombre": "Galvarino",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 416,
+    "fields": {
+        "nombre": "Gorbea",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 417,
+    "fields": {
+        "nombre": "Lautaro",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 418,
+    "fields": {
+        "nombre": "Loncoche",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 419,
+    "fields": {
+        "nombre": "Melipeuco",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 420,
+    "fields": {
+        "nombre": "Nueva Imperial",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 421,
+    "fields": {
+        "nombre": "Padre Las Casas",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 422,
+    "fields": {
+        "nombre": "Perquenco",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 423,
+    "fields": {
+        "nombre": "Pitrufquén",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 424,
+    "fields": {
+        "nombre": "Pucón",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 425,
+    "fields": {
+        "nombre": "Saavedra",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 426,
+    "fields": {
+        "nombre": "Teodoro Schmidt",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 427,
+    "fields": {
+        "nombre": "Toltén",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 428,
+    "fields": {
+        "nombre": "Vilcún",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 429,
+    "fields": {
+        "nombre": "Villarrica",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 430,
+    "fields": {
+        "nombre": "Cholchol",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 431,
+    "fields": {
+        "nombre": "Angol",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 432,
+    "fields": {
+        "nombre": "Collipulli",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 433,
+    "fields": {
+        "nombre": "Curacautín",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 434,
+    "fields": {
+        "nombre": "Ercilla",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 435,
+    "fields": {
+        "nombre": "Lonquimay",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 436,
+    "fields": {
+        "nombre": "Los Sauces",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 437,
+    "fields": {
+        "nombre": "Lumaco",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 438,
+    "fields": {
+        "nombre": "Purén",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 439,
+    "fields": {
+        "nombre": "Renaico",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 440,
+    "fields": {
+        "nombre": "Traiguén",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 441,
+    "fields": {
+        "nombre": "Victoria",
+        "region": 23
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 442,
+    "fields": {
+        "nombre": "Concepción",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 443,
+    "fields": {
+        "nombre": "Coronel",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 444,
+    "fields": {
+        "nombre": "Chiguayante",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 445,
+    "fields": {
+        "nombre": "Florida",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 446,
+    "fields": {
+        "nombre": "Hualqui",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 447,
+    "fields": {
+        "nombre": "Lota",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 448,
+    "fields": {
+        "nombre": "Penco",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 449,
+    "fields": {
+        "nombre": "San Pedro de la Paz",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 450,
+    "fields": {
+        "nombre": "Santa Juana",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 451,
+    "fields": {
+        "nombre": "Talcahuano",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 452,
+    "fields": {
+        "nombre": "Tomé",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 453,
+    "fields": {
+        "nombre": "Hualpén",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 454,
+    "fields": {
+        "nombre": "Lebu",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 455,
+    "fields": {
+        "nombre": "Arauco",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 456,
+    "fields": {
+        "nombre": "Cañete",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 457,
+    "fields": {
+        "nombre": "Contulmo",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 458,
+    "fields": {
+        "nombre": "Curanilahue",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 459,
+    "fields": {
+        "nombre": "Los Álamos",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 460,
+    "fields": {
+        "nombre": "Tirúa",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 461,
+    "fields": {
+        "nombre": "Los Ángeles",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 462,
+    "fields": {
+        "nombre": "Antuco",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 463,
+    "fields": {
+        "nombre": "Cabrero",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 464,
+    "fields": {
+        "nombre": "Laja",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 465,
+    "fields": {
+        "nombre": "Mulchén",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 466,
+    "fields": {
+        "nombre": "Nacimiento",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 467,
+    "fields": {
+        "nombre": "Negrete",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 468,
+    "fields": {
+        "nombre": "Quilaco",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 469,
+    "fields": {
+        "nombre": "Quilleco",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 470,
+    "fields": {
+        "nombre": "San Rosendo",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 471,
+    "fields": {
+        "nombre": "Santa Bárbara",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 472,
+    "fields": {
+        "nombre": "Tucapel",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 473,
+    "fields": {
+        "nombre": "Yumbel",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 474,
+    "fields": {
+        "nombre": "Alto Biobío",
+        "region": 24
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 475,
+    "fields": {
+        "nombre": "Chillán",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 476,
+    "fields": {
+        "nombre": "Chillán Viejo",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 477,
+    "fields": {
+        "nombre": "Bulnes",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 478,
+    "fields": {
+        "nombre": "Cobquecura",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 479,
+    "fields": {
+        "nombre": "Coelemu",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 480,
+    "fields": {
+        "nombre": "Coihueco",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 481,
+    "fields": {
+        "nombre": "El Carmen",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 482,
+    "fields": {
+        "nombre": "Ninhue",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 483,
+    "fields": {
+        "nombre": "Ñiquén",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 484,
+    "fields": {
+        "nombre": "Pemuco",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 485,
+    "fields": {
+        "nombre": "Pinto",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 486,
+    "fields": {
+        "nombre": "Portezuelo",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 487,
+    "fields": {
+        "nombre": "Quillón",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 488,
+    "fields": {
+        "nombre": "Quirihue",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 489,
+    "fields": {
+        "nombre": "Ránquil",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 490,
+    "fields": {
+        "nombre": "San Carlos",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 491,
+    "fields": {
+        "nombre": "San Fabián",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 492,
+    "fields": {
+        "nombre": "San Ignacio",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 493,
+    "fields": {
+        "nombre": "San Nicolás",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 494,
+    "fields": {
+        "nombre": "Treguaco",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 495,
+    "fields": {
+        "nombre": "Yungay",
+        "region": 25
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 496,
+    "fields": {
+        "nombre": "Talca",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 497,
+    "fields": {
+        "nombre": "Constitución",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 498,
+    "fields": {
+        "nombre": "Curepto",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 499,
+    "fields": {
+        "nombre": "Empedrado",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 500,
+    "fields": {
+        "nombre": "Maule",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 501,
+    "fields": {
+        "nombre": "Pelarco",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 502,
+    "fields": {
+        "nombre": "Pencahue",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 503,
+    "fields": {
+        "nombre": "Río Claro",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 504,
+    "fields": {
+        "nombre": "San Clemente",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 505,
+    "fields": {
+        "nombre": "San Rafael",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 506,
+    "fields": {
+        "nombre": "Cauquenes",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 507,
+    "fields": {
+        "nombre": "Chanco",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 508,
+    "fields": {
+        "nombre": "Pelluhue",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 509,
+    "fields": {
+        "nombre": "Curicó",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 510,
+    "fields": {
+        "nombre": "Hualañé",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 511,
+    "fields": {
+        "nombre": "Licantén",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 512,
+    "fields": {
+        "nombre": "Molina",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 513,
+    "fields": {
+        "nombre": "Rauco",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 514,
+    "fields": {
+        "nombre": "Romeral",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 515,
+    "fields": {
+        "nombre": "Sagrada Familia",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 516,
+    "fields": {
+        "nombre": "Teno",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 517,
+    "fields": {
+        "nombre": "Vichuquén",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 518,
+    "fields": {
+        "nombre": "Linares",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 519,
+    "fields": {
+        "nombre": "Colbún",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 520,
+    "fields": {
+        "nombre": "Longaví",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 521,
+    "fields": {
+        "nombre": "Parral",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 522,
+    "fields": {
+        "nombre": "Retiro",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 523,
+    "fields": {
+        "nombre": "San Javier",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 524,
+    "fields": {
+        "nombre": "Villa Alegre",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 525,
+    "fields": {
+        "nombre": "Yerbas Buenas",
+        "region": 26
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 526,
+    "fields": {
+        "nombre": "Rancagua",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 527,
+    "fields": {
+        "nombre": "Codegua",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 528,
+    "fields": {
+        "nombre": "Coinco",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 529,
+    "fields": {
+        "nombre": "Coltauco",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 530,
+    "fields": {
+        "nombre": "Doñihue",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 531,
+    "fields": {
+        "nombre": "Graneros",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 532,
+    "fields": {
+        "nombre": "Las Cabras",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 533,
+    "fields": {
+        "nombre": "Machalí",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 534,
+    "fields": {
+        "nombre": "Malloa",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 535,
+    "fields": {
+        "nombre": "Mostazal",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 536,
+    "fields": {
+        "nombre": "Olivar",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 537,
+    "fields": {
+        "nombre": "Peumo",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 538,
+    "fields": {
+        "nombre": "Pichidegua",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 539,
+    "fields": {
+        "nombre": "Quinta de Tilcoco",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 540,
+    "fields": {
+        "nombre": "Rengo",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 541,
+    "fields": {
+        "nombre": "Requínoa",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 542,
+    "fields": {
+        "nombre": "San Vicente",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 543,
+    "fields": {
+        "nombre": "Pichilemu",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 544,
+    "fields": {
+        "nombre": "La Estrella",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 545,
+    "fields": {
+        "nombre": "Litueche",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 546,
+    "fields": {
+        "nombre": "Marchihue",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 547,
+    "fields": {
+        "nombre": "Navidad",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 548,
+    "fields": {
+        "nombre": "Paredones",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 549,
+    "fields": {
+        "nombre": "San Fernando",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 550,
+    "fields": {
+        "nombre": "Chépica",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 551,
+    "fields": {
+        "nombre": "Chimbarongo",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 552,
+    "fields": {
+        "nombre": "Lolol",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 553,
+    "fields": {
+        "nombre": "Nancagua",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 554,
+    "fields": {
+        "nombre": "Palmilla",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 555,
+    "fields": {
+        "nombre": "Peralillo",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 556,
+    "fields": {
+        "nombre": "Placilla",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 557,
+    "fields": {
+        "nombre": "Pumanque",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 558,
+    "fields": {
+        "nombre": "Santa Cruz",
+        "region": 27
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 559,
+    "fields": {
+        "nombre": "Santiago",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 560,
+    "fields": {
+        "nombre": "Cerrillos",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 561,
+    "fields": {
+        "nombre": "Cerro Navia",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 562,
+    "fields": {
+        "nombre": "Conchalí",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 563,
+    "fields": {
+        "nombre": "El Bosque",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 564,
+    "fields": {
+        "nombre": "Estación Central",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 565,
+    "fields": {
+        "nombre": "Huechuraba",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 566,
+    "fields": {
+        "nombre": "Independencia",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 567,
+    "fields": {
+        "nombre": "La Cisterna",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 568,
+    "fields": {
+        "nombre": "La Florida",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 569,
+    "fields": {
+        "nombre": "La Granja",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 570,
+    "fields": {
+        "nombre": "La Pintana",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 571,
+    "fields": {
+        "nombre": "La Reina",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 572,
+    "fields": {
+        "nombre": "Las Condes",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 573,
+    "fields": {
+        "nombre": "Lo Barnechea",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 574,
+    "fields": {
+        "nombre": "Lo Espejo",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 575,
+    "fields": {
+        "nombre": "Lo Prado",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 576,
+    "fields": {
+        "nombre": "Macul",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 577,
+    "fields": {
+        "nombre": "Maipú",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 578,
+    "fields": {
+        "nombre": "Ñuñoa",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 579,
+    "fields": {
+        "nombre": "Pedro Aguirre Cerda",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 580,
+    "fields": {
+        "nombre": "Peñalolén",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 581,
+    "fields": {
+        "nombre": "Providencia",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 582,
+    "fields": {
+        "nombre": "Pudahuel",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 583,
+    "fields": {
+        "nombre": "Quilicura",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 584,
+    "fields": {
+        "nombre": "Quinta Normal",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 585,
+    "fields": {
+        "nombre": "Recoleta",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 586,
+    "fields": {
+        "nombre": "Renca",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 587,
+    "fields": {
+        "nombre": "San Joaquín",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 588,
+    "fields": {
+        "nombre": "San Miguel",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 589,
+    "fields": {
+        "nombre": "San Ramón",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 590,
+    "fields": {
+        "nombre": "Vitacura",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 591,
+    "fields": {
+        "nombre": "Puente Alto",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 592,
+    "fields": {
+        "nombre": "Pirque",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 593,
+    "fields": {
+        "nombre": "San José de Maipo",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 594,
+    "fields": {
+        "nombre": "Colina",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 595,
+    "fields": {
+        "nombre": "Lampa",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 596,
+    "fields": {
+        "nombre": "Tiltil",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 597,
+    "fields": {
+        "nombre": "San Bernardo",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 598,
+    "fields": {
+        "nombre": "Buin",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 599,
+    "fields": {
+        "nombre": "Calera de Tango",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 600,
+    "fields": {
+        "nombre": "Paine",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 601,
+    "fields": {
+        "nombre": "Melipilla",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 602,
+    "fields": {
+        "nombre": "Alhué",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 603,
+    "fields": {
+        "nombre": "Curacaví",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 604,
+    "fields": {
+        "nombre": "María Pinto",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 605,
+    "fields": {
+        "nombre": "San Pedro",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 606,
+    "fields": {
+        "nombre": "Talagante",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 607,
+    "fields": {
+        "nombre": "El Monte",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 608,
+    "fields": {
+        "nombre": "Isla de Maipo",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 609,
+    "fields": {
+        "nombre": "Padre Hurtado",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 610,
+    "fields": {
+        "nombre": "Peñaflor",
+        "region": 28
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 611,
+    "fields": {
+        "nombre": "Valparaíso",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 612,
+    "fields": {
+        "nombre": "Casablanca",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 613,
+    "fields": {
+        "nombre": "Concón",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 614,
+    "fields": {
+        "nombre": "Juan Fernández",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 615,
+    "fields": {
+        "nombre": "Puchuncaví",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 616,
+    "fields": {
+        "nombre": "Quintero",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 617,
+    "fields": {
+        "nombre": "Viña del Mar",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 618,
+    "fields": {
+        "nombre": "Isla de Pascua",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 619,
+    "fields": {
+        "nombre": "Los Andes",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 620,
+    "fields": {
+        "nombre": "Calle Larga",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 621,
+    "fields": {
+        "nombre": "Rinconada",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 622,
+    "fields": {
+        "nombre": "San Esteban",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 623,
+    "fields": {
+        "nombre": "La Ligua",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 624,
+    "fields": {
+        "nombre": "Cabildo",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 625,
+    "fields": {
+        "nombre": "Papudo",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 626,
+    "fields": {
+        "nombre": "Petorca",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 627,
+    "fields": {
+        "nombre": "Zapallar",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 628,
+    "fields": {
+        "nombre": "Quillota",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 629,
+    "fields": {
+        "nombre": "Calera",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 630,
+    "fields": {
+        "nombre": "Hijuelas",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 631,
+    "fields": {
+        "nombre": "La Cruz",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 632,
+    "fields": {
+        "nombre": "Nogales",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 633,
+    "fields": {
+        "nombre": "San Antonio",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 634,
+    "fields": {
+        "nombre": "Algarrobo",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 635,
+    "fields": {
+        "nombre": "Cartagena",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 636,
+    "fields": {
+        "nombre": "El Quisco",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 637,
+    "fields": {
+        "nombre": "El Tabo",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 638,
+    "fields": {
+        "nombre": "Santo Domingo",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 639,
+    "fields": {
+        "nombre": "San Felipe",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 640,
+    "fields": {
+        "nombre": "Catemu",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 641,
+    "fields": {
+        "nombre": "Llaillay",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 642,
+    "fields": {
+        "nombre": "Panquehue",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 643,
+    "fields": {
+        "nombre": "Putaendo",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 644,
+    "fields": {
+        "nombre": "Santa María",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 645,
+    "fields": {
+        "nombre": "Quilpué",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 646,
+    "fields": {
+        "nombre": "Limache",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 647,
+    "fields": {
+        "nombre": "Olmué",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 648,
+    "fields": {
+        "nombre": "Villa Alemana",
+        "region": 29
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 649,
+    "fields": {
+        "nombre": "La Serena",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 650,
+    "fields": {
+        "nombre": "Coquimbo",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 651,
+    "fields": {
+        "nombre": "Andacollo",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 652,
+    "fields": {
+        "nombre": "La Higuera",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 653,
+    "fields": {
+        "nombre": "Paiguano",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 654,
+    "fields": {
+        "nombre": "Vicuña",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 655,
+    "fields": {
+        "nombre": "Illapel",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 656,
+    "fields": {
+        "nombre": "Canela",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 657,
+    "fields": {
+        "nombre": "Los Vilos",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 658,
+    "fields": {
+        "nombre": "Salamanca",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 659,
+    "fields": {
+        "nombre": "Ovalle",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 660,
+    "fields": {
+        "nombre": "Combarbalá",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 661,
+    "fields": {
+        "nombre": "Monte Patria",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 662,
+    "fields": {
+        "nombre": "Punitaqui",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 663,
+    "fields": {
+        "nombre": "Río Hurtado",
+        "region": 30
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 664,
+    "fields": {
+        "nombre": "Copiapó",
+        "region": 31
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 665,
+    "fields": {
+        "nombre": "Caldera",
+        "region": 31
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 666,
+    "fields": {
+        "nombre": "Tierra Amarilla",
+        "region": 31
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 667,
+    "fields": {
+        "nombre": "Chañaral",
+        "region": 31
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 668,
+    "fields": {
+        "nombre": "Diego de Almagro",
+        "region": 31
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 669,
+    "fields": {
+        "nombre": "Vallenar",
+        "region": 31
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 670,
+    "fields": {
+        "nombre": "Alto del Carmen",
+        "region": 31
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 671,
+    "fields": {
+        "nombre": "Freirina",
+        "region": 31
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 672,
+    "fields": {
+        "nombre": "Huasco",
+        "region": 31
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 673,
+    "fields": {
+        "nombre": "Antofagasta",
+        "region": 32
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 674,
+    "fields": {
+        "nombre": "Mejillones",
+        "region": 32
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 675,
+    "fields": {
+        "nombre": "Sierra Gorda",
+        "region": 32
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 676,
+    "fields": {
+        "nombre": "Taltal",
+        "region": 32
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 677,
+    "fields": {
+        "nombre": "Calama",
+        "region": 32
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 678,
+    "fields": {
+        "nombre": "Ollagüe",
+        "region": 32
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 679,
+    "fields": {
+        "nombre": "San Pedro de Atacama",
+        "region": 32
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 680,
+    "fields": {
+        "nombre": "Tocopilla",
+        "region": 32
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 681,
+    "fields": {
+        "nombre": "María Elena",
+        "region": 32
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 682,
+    "fields": {
+        "nombre": "Iquique",
+        "region": 33
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 683,
+    "fields": {
+        "nombre": "Alto Hospicio",
+        "region": 33
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 684,
+    "fields": {
+        "nombre": "Pozo Almonte",
+        "region": 33
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 685,
+    "fields": {
+        "nombre": "Camiña",
+        "region": 33
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 686,
+    "fields": {
+        "nombre": "Colchane",
+        "region": 33
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 687,
+    "fields": {
+        "nombre": "Huara",
+        "region": 33
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 688,
+    "fields": {
+        "nombre": "Pica",
+        "region": 33
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 689,
+    "fields": {
+        "nombre": "Arica",
+        "region": 34
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 690,
+    "fields": {
+        "nombre": "Camarones",
+        "region": 34
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 691,
+    "fields": {
+        "nombre": "Putre",
+        "region": 34
+    }
+},
+{
+    "model": "gestion_inmuebles.comuna",
+    "pk": 692,
+    "fields": {
+        "nombre": "General Lagos",
+        "region": 34
+    }
+}
+]

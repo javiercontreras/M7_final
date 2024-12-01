@@ -1,0 +1,192 @@
+[
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 21,
+        "fields": {
+            "nombre": 1,
+            "nombre_inmueble": "Apartamento con vista panorámica",
+            "descripcion": "Apartamento moderno con vistas impresionantes a la ciudad.",
+            "m2_construidos": 85.0,
+            "m2_totales": 120.0,
+            "estacionamientos": 1,
+            "habitaciones": 3,
+            "banos": 2,
+            "direccion": "Avenida Central 450",
+            "comuna": 355,
+            "region": 20,
+            "tipo_inmueble": "C",
+            "precio": "180000.00"
+        }
+    },
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 22,
+        "fields": {
+            "nombre": 2,
+            "nombre_inmueble": "Departamento en el centro",
+            "descripcion": "Departamento de 2 habitaciones en el corazón de la ciudad.",
+            "m2_construidos": 70.0,
+            "m2_totales": 90.0,
+            "estacionamientos": 1,
+            "habitaciones": 2,
+            "banos": 1,
+            "direccion": "Calle Las Flores 500",
+            "comuna": 378,
+            "region": 23,
+            "tipo_inmueble": "D",
+            "precio": "160000.00"
+        }
+    },
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 23,
+        "fields": {
+            "nombre": 3,
+            "nombre_inmueble": "Propiedad amplia con jardín",
+            "descripcion": "Propiedad con amplio jardín y espacios verdes, ideal para la familia.",
+            "m2_construidos": 200.0,
+            "m2_totales": 250.0,
+            "estacionamientos": 2,
+            "habitaciones": 5,
+            "banos": 3,
+            "direccion": "Calle Jardín 350",
+            "comuna": 400,
+            "region": 21,
+            "tipo_inmueble": "P",
+            "precio": "300000.00"
+        }
+    },
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 24,
+        "fields": {
+            "nombre": 4,
+            "nombre_inmueble": "Apartamento de lujo",
+            "descripcion": "Apartamento de lujo con acabados premium en zona exclusiva.",
+            "m2_construidos": 100.0,
+            "m2_totales": 140.0,
+            "estacionamientos": 1,
+            "habitaciones": 3,
+            "banos": 2,
+            "direccion": "Avenida Los Reyes 300",
+            "comuna": 410,
+            "region": 24,
+            "tipo_inmueble": "C",
+            "precio": "250000.00"
+        }
+    },
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 25,
+        "fields": {
+            "nombre": 5,
+            "nombre_inmueble": "Departamento con terraza",
+            "descripcion": "Hermoso departamento con amplia terraza y vista a la ciudad.",
+            "m2_construidos": 85.0,
+            "m2_totales": 110.0,
+            "estacionamientos": 1,
+            "habitaciones": 3,
+            "banos": 2,
+            "direccion": "Calle Vista 550",
+            "comuna": 440,
+            "region": 30,
+            "tipo_inmueble": "D",
+            "precio": "190000.00"
+        }
+    },
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 26,
+        "fields": {
+            "nombre": 6,
+            "nombre_inmueble": "Propiedad rural con terreno",
+            "descripcion": "Amplia propiedad rural con terreno para cultivo y animales.",
+            "m2_construidos": 150.0,
+            "m2_totales": 3500.0,
+            "estacionamientos": 3,
+            "habitaciones": 4,
+            "banos": 2,
+            "direccion": "Camino Rural 650",
+            "comuna": 495,
+            "region": 27,
+            "tipo_inmueble": "P",
+            "precio": "400000.00"
+        }
+    },
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 27,
+        "fields": {
+            "nombre": 7,
+            "nombre_inmueble": "Apartamento estudio",
+            "descripcion": "Estudio ideal para solteros o estudiantes, totalmente amoblado.",
+            "m2_construidos": 40.0,
+            "m2_totales": 50.0,
+            "estacionamientos": 0,
+            "habitaciones": 1,
+            "banos": 1,
+            "direccion": "Calle Pequeña 500",
+            "comuna": 520,
+            "region": 28,
+            "tipo_inmueble": "C",
+            "precio": "75000.00"
+        }
+    },
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 28,
+        "fields": {
+            "nombre": 8,
+            "nombre_inmueble": "Departamento en zona residencial",
+            "descripcion": "Departamento acogedor con zona residencial tranquila y segura.",
+            "m2_construidos": 60.0,
+            "m2_totales": 90.0,
+            "estacionamientos": 1,
+            "habitaciones": 2,
+            "banos": 1,
+            "direccion": "Avenida Residencial 700",
+            "comuna": 530,
+            "region": 32,
+            "tipo_inmueble": "D",
+            "precio": "135000.00"
+        }
+    },
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 29,
+        "fields": {
+            "nombre": 9,
+            "nombre_inmueble": "Propiedad en zona de expansión",
+            "descripcion": "Propiedad con gran potencial en una zona de expansión urbanística.",
+            "m2_construidos": 180.0,
+            "m2_totales": 220.0,
+            "estacionamientos": 2,
+            "habitaciones": 4,
+            "banos": 3,
+            "direccion": "Calle Expansión 800",
+            "comuna": 540,
+            "region": 34,
+            "tipo_inmueble": "P",
+            "precio": "280000.00"
+        }
+    },
+    {
+        "model": "gestion_inmuebles.inmueble",
+        "pk": 30,
+        "fields": {
+            "nombre": 10,
+            "nombre_inmueble": "Apartamento con gimnasio",
+            "descripcion": "Moderno apartamento con gimnasio privado y áreas comunes.",
+            "m2_construidos": 95.0,
+            "m2_totales": 120.0,
+            "estacionamientos": 1,
+            "habitaciones": 3,
+            "banos": 2,
+            "direccion": "Calle Fitness 600",
+            "comuna": 560,
+            "region": 33,
+            "tipo_inmueble": "C",
+            "precio": "210000.00"
+        }
+    }
+]

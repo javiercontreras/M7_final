@@ -1,0 +1,242 @@
+[
+{
+    "model": "user.userprofile",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "rut": "11111111-1",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "P"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 12,
+    "fields": {
+        "user": 15,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 19,
+    "fields": {
+        "user": 2,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 20,
+    "fields": {
+        "user": 3,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 21,
+    "fields": {
+        "user": 4,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 22,
+    "fields": {
+        "user": 5,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 23,
+    "fields": {
+        "user": 6,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 24,
+    "fields": {
+        "user": 7,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 25,
+    "fields": {
+        "user": 8,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 26,
+    "fields": {
+        "user": 9,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 27,
+    "fields": {
+        "user": 10,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 28,
+    "fields": {
+        "user": 11,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 29,
+    "fields": {
+        "user": 12,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 30,
+    "fields": {
+        "user": 13,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 31,
+    "fields": {
+        "user": 14,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 32,
+    "fields": {
+        "user": 16,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 33,
+    "fields": {
+        "user": 17,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 34,
+    "fields": {
+        "user": 18,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 35,
+    "fields": {
+        "user": 19,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+},
+{
+    "model": "user.userprofile",
+    "pk": 36,
+    "fields": {
+        "user": 20,
+        "rut": "",
+        "second_name": "",
+        "telefono": "",
+        "direccion": null,
+        "tipo_usuario": "A"
+    }
+}
+]
