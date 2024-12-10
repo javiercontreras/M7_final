@@ -9,7 +9,6 @@ from gestion_inmuebles.models import Region, Comuna
 
 # Diccionario con regiones y comunas
 datos = {
-    "Lunar": [],  # Vacio, sin comunas por ahora
     "Magallanes": [
         "Punta Arenas",
         "Laguna Blanca",

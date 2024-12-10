@@ -60,7 +60,7 @@
         "model": "gestion_inmuebles.inmueble",
         "pk": 24,
         "fields": {
-            "nombre": 4,
+            "nombre": 3,
             "nombre_inmueble": "Apartamento de lujo",
             "descripcion": "Apartamento de lujo con acabados premium en zona exclusiva.",
             "m2_construidos": 100.0,
@@ -79,7 +79,7 @@
         "model": "gestion_inmuebles.inmueble",
         "pk": 25,
         "fields": {
-            "nombre": 5,
+            "nombre": 3,
             "nombre_inmueble": "Departamento con terraza",
             "descripcion": "Hermoso departamento con amplia terraza y vista a la ciudad.",
             "m2_construidos": 85.0,
@@ -98,7 +98,7 @@
         "model": "gestion_inmuebles.inmueble",
         "pk": 26,
         "fields": {
-            "nombre": 6,
+            "nombre": 2,
             "nombre_inmueble": "Propiedad rural con terreno",
             "descripcion": "Amplia propiedad rural con terreno para cultivo y animales.",
             "m2_construidos": 150.0,
@@ -117,7 +117,7 @@
         "model": "gestion_inmuebles.inmueble",
         "pk": 27,
         "fields": {
-            "nombre": 7,
+            "nombre": 2,
             "nombre_inmueble": "Apartamento estudio",
             "descripcion": "Estudio ideal para solteros o estudiantes, totalmente amoblado.",
             "m2_construidos": 40.0,
@@ -136,7 +136,7 @@
         "model": "gestion_inmuebles.inmueble",
         "pk": 28,
         "fields": {
-            "nombre": 8,
+            "nombre": 2,
             "nombre_inmueble": "Departamento en zona residencial",
             "descripcion": "Departamento acogedor con zona residencial tranquila y segura.",
             "m2_construidos": 60.0,
@@ -155,7 +155,7 @@
         "model": "gestion_inmuebles.inmueble",
         "pk": 29,
         "fields": {
-            "nombre": 9,
+            "nombre": 1,
             "nombre_inmueble": "Propiedad en zona de expansión",
             "descripcion": "Propiedad con gran potencial en una zona de expansión urbanística.",
             "m2_construidos": 180.0,
@@ -174,7 +174,7 @@
         "model": "gestion_inmuebles.inmueble",
         "pk": 30,
         "fields": {
-            "nombre": 10,
+            "nombre": 1,
             "nombre_inmueble": "Apartamento con gimnasio",
             "descripcion": "Moderno apartamento con gimnasio privado y áreas comunes.",
             "m2_construidos": 95.0,
