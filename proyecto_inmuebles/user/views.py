@@ -7,6 +7,7 @@ from django.contrib.auth.models import User, Group
 from django.contrib.auth import login,logout,authenticate
 from django.http import HttpResponse,HttpResponseForbidden
 from .models import UserProfile
+from django.views.decorators.csrf import csrf_exempt
 @login_required
 @transaction.atomic
 def update_profile(request):
@@ -23,9 +24,13 @@ def update_profile(request):
             if tipo == 'P' and user.groups.filter(name='Arrendatario').exists():     
                 user.groups.remove(grupoArrendatario )
                 user.groups.add(grupoPropietario)
+                return render(request,'propietario_dashboard.html',{})
+
             else:
                 user.groups.remove(grupoPropietario)
                 user.groups.add(grupoArrendatario )
+                return render(request,'arrendatario_dashboard.html',{})
+
             return redirect("indice")
     else:
         # we populate the user form 
@@ -46,10 +51,11 @@ def sign_up(request):
                 user = User.objects.create_user(username=request.POST["username"],password=request.POST["password1"])
                 user.save()
                 login(request,user)
-                return redirect('indice')
+                return redirect('arrendatario')
             except:
                 return HttpResponse("El usuario ya existe")
         return HttpResponse("Las contraseñas no coinciden")
+
 
 def log_in(request):  
     if request.method == 'GET':
@@ -60,4 +66,12 @@ def log_in(request):
             return render(request, 'login.html', {'form': AuthenticationForm,'error':"El usuario o contraseña son incorrectos"})
         else:
             login(request,user)
-            return redirect('indice')
+            return render(request,'arrendatario_dashboard.html',{})
+
+    
+def arrendatario(request):
+    return render(request,'arrendatario_dashboard.html',{})
+
+     
+def propietario(request):
+    return render(request,'propietario_dashboard.html',{})

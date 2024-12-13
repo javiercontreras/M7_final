@@ -5,7 +5,7 @@
 <section class ="d-nt-center align-items-cenflex " >
     <h2>Bienvenido</h2>
 </section>
-{% if user.is_authenticated %}
+{% if user.is_authenticated  %}
 {% for inmueble in inmuebles%}
 
     <li>{{inmueble.nombre}}</li>
