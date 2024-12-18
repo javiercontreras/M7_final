@@ -8,6 +8,7 @@ from django.contrib.auth import login,logout,authenticate
 from django.http import HttpResponse,HttpResponseForbidden
 from .models import UserProfile
 from django.views.decorators.csrf import csrf_exempt
+from gestion_inmuebles.models import Region,Comuna,Inmueble
 @login_required
 @transaction.atomic
 def update_profile(request):
@@ -66,11 +67,14 @@ def log_in(request):
             return render(request, 'login.html', {'form': AuthenticationForm,'error':"El usuario o contraseña son incorrectos"})
         else:
             login(request,user)
-            return render(request,'arrendatario_dashboard.html',{})
+            return redirect('indice')
 
     
 def arrendatario(request):
-    return render(request,'arrendatario_dashboard.html',{})
+
+    inmuebles = Inmueble.objects.all()
+       
+    return render(request,'arrendatario_dashboard.html',{'inmuebles':inmuebles})
 
      
 def propietario(request):

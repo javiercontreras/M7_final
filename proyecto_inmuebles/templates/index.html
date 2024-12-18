@@ -5,10 +5,25 @@
 <section class ="d-nt-center align-items-cenflex " >
     <h2>Bienvenido</h2>
 </section>
+
+
+<form method="get">
+    <label for="Region">Region:</label>
+    <input type="text" id="Region" name="region" value="{{ request.GET.region}}">
+    
+    {% comment %} <label for="is_active">Active:</label>
+    <select id="is_active" name="is_active">
+        <option value="">Any</option>
+        <option value="true" {% if request.GET.is_active == "true" %}selected{% endif %}>Active</option>
+        <option value="false" {% if request.GET.is_active == "false" %}selected{% endif %}>Inactive</option>
+    </select> {% endcomment %}
+
+    <button type="submit">Filter</button>
+</form>
 {% if user.is_authenticated  %}
 {% for inmueble in inmuebles%}
 
-    <li>{{inmueble.nombre}}</li>
+    <li>{{inmueble.region}}</li>
 
 {% endfor%}
 {% endif %}
